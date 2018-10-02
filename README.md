@@ -43,7 +43,7 @@ npm run build
 ## How to set up development environment on PC
 This app is a chrome extension, you can load it to Chrome as a extension and run it on Chrome browser as well as inspect it.
 1) Build the app
-2) Load the built app on "chrome://extensions"
+2) Load the built app(`com.webos.app.enactbrowser/samples/enact-based/dist`) on "chrome://extensions"
 
 # Usage
 ## On target device
